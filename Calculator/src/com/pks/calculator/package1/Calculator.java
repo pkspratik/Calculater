@@ -45,7 +45,7 @@ public class Calculator {
 		}
 		if(opration==4)
 		{
-			int div= first_no / second_no;
+			float div= first_no / second_no;
 			System.out.println(first_no +" / "+ second_no +" = "+ div);
 			System.out.println();
 		}
